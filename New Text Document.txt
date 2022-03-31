@@ -8,3 +8,5 @@
 3.laste seen
 
 4.chat with eashwar
+
+5.Hiding last seen
